@@ -1,6 +1,6 @@
 # Dark Blue Theme for LXQt
 
-Based on the dark theme included with LXQt, but with the red accents changed to blue (roughly based on the blue from the KDE 5 Breeze theme), and not including the wallpaper.
+Based on the dark theme included with LXQt (in https://github.com/lxqt/lxqt-themes), but with the red accents changed to blue (roughly based on the blue from the KDE 5 Breeze theme), and not including the wallpaper.
 
 ## How to install
 
