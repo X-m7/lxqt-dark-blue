@@ -49,7 +49,7 @@ QLineEdit {
     padding: 6px;
     margin-bottom: 1px;
     color: white;
-    selection-background-color: #640b0c;
+    selection-background-color: #0B4564;
 }
 
 /*
@@ -113,11 +113,11 @@ QMenu::item {
 }
 
 QMenu::item:selected {
-    border: 10px solid #640b0c;
+    border: 10px solid #0B4564;
     border-top-width: 1px;
     border-bottom-width: 1px;
     border-right-width: 5px;
-    background: #640b0c;
+    background: #0B4564;
     color: white;
 }
 

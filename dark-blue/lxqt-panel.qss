@@ -21,7 +21,7 @@ Plugin,
 LXQtPanelPlugin {
     padding: 0;
     spacing: 20px;
-    qproperty-moveMarkerColor: #C94C21;
+    qproperty-moveMarkerColor: #21BBC9;
 }
 
 Plugin  > QWidget,
@@ -114,25 +114,25 @@ VolumePopup  > QSlider::sub-page:vertical {
 }
 
 #DesktopSwitch QToolButton:on {
-    background: #640b0c;
-    border: 1px solid #640b0c;
+    background: #0B4564;
+    border: 1px solid #0B4564;
     font: bold;
 }
 
 #DesktopSwitch QToolButton:hover:on {
-    background: #870e10;
-    border: 1px solid #870e10;
+    background: #0E5D87;
+    border: 1px solid #0E5D87;
 }
 
 #DesktopSwitch QToolButton:pressed {
-    background: #50080a;
+    background: #083750;
     padding: 4px;
 }
 
 #DesktopSwitch QToolButton[urgent="true"] {
     color: white;
-    background: #960f11;
-    border: 1px solid #d21518;
+    background: #0F6796;
+    border: 1px solid #1590D2;
 }
 
 /*
@@ -196,7 +196,7 @@ VolumePopup  > QSlider::sub-page:vertical {
 QCalendarWidget QAbstractItemView:enabled {
     color: white;
     background: black;
-    selection-background-color: #640b0c;
+    selection-background-color: #0B4564;
     selection-color: white;
 }
 
@@ -319,11 +319,11 @@ QMenu::item {
 }
 
 QMenu::item:selected {
-    border: 10px solid #640b0c;
+    border: 10px solid #0B4564;
     border-top-width: 1px;
     border-bottom-width: 1px;
     border-right-width: 5px;
-    background: #640b0c;
+    background: #0B4564;
     color: white;
 }
 
@@ -375,7 +375,7 @@ QMenu::indicator:non-exclusive:checked {
     padding: 3px;
     margin-bottom: 1px;
     color: white;
-    selection-background-color: #640b0c;
+    selection-background-color: #0B4564;
 }
 
 #MainMenu ActionView {
@@ -392,12 +392,12 @@ QMenu::indicator:non-exclusive:checked {
 }
 
 #MainMenu ActionView::item:selected {
-    background: #640b0c;
+    background: #0B4564;
     color: white;
 }
 
 #MainMenu ActionView::item:hover {
-    background: #500709;
+    background: #073650;
     color: white;
 }
 
@@ -460,7 +460,7 @@ QMenu::indicator:non-exclusive:checked {
 
 #KbIndicator > QLabel:enabled {
     color: white;
-    background: #780d0f;
+    background: #0D5378;
 }
 
 /*
